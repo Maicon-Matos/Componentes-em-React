@@ -1,0 +1,10 @@
+Instalar "NodeJS"
+Abrir PowerShell
+Selecionar pasta para instalar arquivos
+Dar comando (npx create-react-app react-dio)
+"react-dio" é o nome do arquivo 
+Dar (npm start) no PowerShell
+
+
+Para usar o Bootstrap para inserir componentes
+https://getbootstrap.com/
